@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aula_exception", "aula_exception\aula_exception.csproj", "{6717D7C5-C7F7-19D6-C693-C160D95684FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6717D7C5-C7F7-19D6-C693-C160D95684FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6717D7C5-C7F7-19D6-C693-C160D95684FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6717D7C5-C7F7-19D6-C693-C160D95684FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6717D7C5-C7F7-19D6-C693-C160D95684FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29EA6360-1023-4AAE-8FDD-38B7088ECB20}
+	EndGlobalSection
+EndGlobal

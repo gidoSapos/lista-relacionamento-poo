@@ -1,0 +1,14 @@
+C:\Users\anaot\OneDrive\Desktop\faculdade\terceiro_semestre\p.o.o\pratica\bin\Debug\net9.0\pratica.exe
+C:\Users\anaot\OneDrive\Desktop\faculdade\terceiro_semestre\p.o.o\pratica\bin\Debug\net9.0\pratica.deps.json
+C:\Users\anaot\OneDrive\Desktop\faculdade\terceiro_semestre\p.o.o\pratica\bin\Debug\net9.0\pratica.runtimeconfig.json
+C:\Users\anaot\OneDrive\Desktop\faculdade\terceiro_semestre\p.o.o\pratica\bin\Debug\net9.0\pratica.dll
+C:\Users\anaot\OneDrive\Desktop\faculdade\terceiro_semestre\p.o.o\pratica\bin\Debug\net9.0\pratica.pdb
+C:\Users\anaot\OneDrive\Desktop\faculdade\terceiro_semestre\p.o.o\pratica\obj\Debug\net9.0\pratica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anaot\OneDrive\Desktop\faculdade\terceiro_semestre\p.o.o\pratica\obj\Debug\net9.0\pratica.AssemblyInfoInputs.cache
+C:\Users\anaot\OneDrive\Desktop\faculdade\terceiro_semestre\p.o.o\pratica\obj\Debug\net9.0\pratica.AssemblyInfo.cs
+C:\Users\anaot\OneDrive\Desktop\faculdade\terceiro_semestre\p.o.o\pratica\obj\Debug\net9.0\pratica.csproj.CoreCompileInputs.cache
+C:\Users\anaot\OneDrive\Desktop\faculdade\terceiro_semestre\p.o.o\pratica\obj\Debug\net9.0\pratica.dll
+C:\Users\anaot\OneDrive\Desktop\faculdade\terceiro_semestre\p.o.o\pratica\obj\Debug\net9.0\refint\pratica.dll
+C:\Users\anaot\OneDrive\Desktop\faculdade\terceiro_semestre\p.o.o\pratica\obj\Debug\net9.0\pratica.pdb
+C:\Users\anaot\OneDrive\Desktop\faculdade\terceiro_semestre\p.o.o\pratica\obj\Debug\net9.0\pratica.genruntimeconfig.cache
+C:\Users\anaot\OneDrive\Desktop\faculdade\terceiro_semestre\p.o.o\pratica\obj\Debug\net9.0\ref\pratica.dll

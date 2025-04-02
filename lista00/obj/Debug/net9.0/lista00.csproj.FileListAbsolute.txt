@@ -1,0 +1,14 @@
+C:\Users\anaot\OneDrive\Desktop\faculdade\terceiro_semestre\p.o.o\lista00\bin\Debug\net9.0\lista00.exe
+C:\Users\anaot\OneDrive\Desktop\faculdade\terceiro_semestre\p.o.o\lista00\bin\Debug\net9.0\lista00.deps.json
+C:\Users\anaot\OneDrive\Desktop\faculdade\terceiro_semestre\p.o.o\lista00\bin\Debug\net9.0\lista00.runtimeconfig.json
+C:\Users\anaot\OneDrive\Desktop\faculdade\terceiro_semestre\p.o.o\lista00\bin\Debug\net9.0\lista00.dll
+C:\Users\anaot\OneDrive\Desktop\faculdade\terceiro_semestre\p.o.o\lista00\bin\Debug\net9.0\lista00.pdb
+C:\Users\anaot\OneDrive\Desktop\faculdade\terceiro_semestre\p.o.o\lista00\obj\Debug\net9.0\lista00.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anaot\OneDrive\Desktop\faculdade\terceiro_semestre\p.o.o\lista00\obj\Debug\net9.0\lista00.AssemblyInfoInputs.cache
+C:\Users\anaot\OneDrive\Desktop\faculdade\terceiro_semestre\p.o.o\lista00\obj\Debug\net9.0\lista00.AssemblyInfo.cs
+C:\Users\anaot\OneDrive\Desktop\faculdade\terceiro_semestre\p.o.o\lista00\obj\Debug\net9.0\lista00.csproj.CoreCompileInputs.cache
+C:\Users\anaot\OneDrive\Desktop\faculdade\terceiro_semestre\p.o.o\lista00\obj\Debug\net9.0\lista00.dll
+C:\Users\anaot\OneDrive\Desktop\faculdade\terceiro_semestre\p.o.o\lista00\obj\Debug\net9.0\refint\lista00.dll
+C:\Users\anaot\OneDrive\Desktop\faculdade\terceiro_semestre\p.o.o\lista00\obj\Debug\net9.0\lista00.pdb
+C:\Users\anaot\OneDrive\Desktop\faculdade\terceiro_semestre\p.o.o\lista00\obj\Debug\net9.0\lista00.genruntimeconfig.cache
+C:\Users\anaot\OneDrive\Desktop\faculdade\terceiro_semestre\p.o.o\lista00\obj\Debug\net9.0\ref\lista00.dll
