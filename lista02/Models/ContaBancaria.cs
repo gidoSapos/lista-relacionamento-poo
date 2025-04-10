@@ -1,28 +1,55 @@
-namespace lista02
+class ContaBancaria
 {
-    class ContaBancaria
-    {   
-        private float saldo;
-        public float Saldo
+    private double saldo;
+    public double Saldo
+    {
+        get { return saldo; }
+        private set
         {
-            get{return saldo;} 
-            set
+            if (value < 0)
             {
-                if (saldo >= 0)
-                {
-                    saldo = value;
-                }
+                Console.WriteLine("Saldo não pode ser negativo.");
+                saldo = 0;
+            }
+            else
+            {
+                saldo = value;
             }
         }
-
-        public ContaBancaria(float saldo) => Saldo = saldo;
-        public float Depositar(float saldo)
-        {
-            saldo += 100;
-            return saldo; 
-        }
-        public string Sacar()
-            {return "Já pode saca";}
-        
     }
+    public ContaBancaria(double saldoInicial)
+    {
+        Saldo = saldoInicial;
+    }
+    public void Depositar(double valor)
+    {
+        if (valor > 0)
+        {
+            Saldo += valor;
+            Console.WriteLine($"Você depositou R${valor}. Novo saldo: R${Saldo}");
+        }
+        else
+        {
+            Console.WriteLine("O valor do depósito deve ser maior que zero.");
+        }
+    }
+        public void Sacar(double valor)
+        {
+            if (valor > 0)
+            {
+                if (valor <= Saldo)
+                {
+                    Saldo -= valor;  // Atualiza o saldo
+                    Console.WriteLine($"Você sacou R${valor}. Novo saldo: R${Saldo}");
+                }
+                else
+                {
+                    Console.WriteLine("Saldo insuficiente para o saque.");
+                }
+            }
+            else
+            {
+                Console.WriteLine("O valor do saque deve ser maior que zero.");
+            }
+        }
 }

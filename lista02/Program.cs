@@ -1,12 +1,11 @@
-﻿using System;
+﻿namespace lista02;
 
-namespace lista02
+class Program
 {
-    class Program
+    static void Main(String[] args)
     {
-        static void Main(String[] args)
-        {
-            Menu.Mostrar();
-        }
+        
+        Menu.Mostrar();
+        
     }
 }
