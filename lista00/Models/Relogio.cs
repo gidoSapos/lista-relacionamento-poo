@@ -1,32 +1,33 @@
-using System;
-using System.Security.Cryptography.X509Certificates;
-namespace aula00;
+namespace lista00;
 class Relogio
 {
 
     public double Milisegundos()
     {
-        double milisegundo;
         Console.WriteLine("Insira as horas pós meia-noite: ");
-        double hora = Double.Parse(Console.ReadLine());
+        int hora = Int32.Parse(Console.ReadLine());
         Console.WriteLine("Insira os minutos pós meia-noite: ");
-        double minuto = Double.Parse(Console.ReadLine());
+        int minuto = Int32.Parse(Console.ReadLine());
         Console.WriteLine("Insira os segundos pós meia-noite: ");
-        double segundo = Double.Parse(Console.ReadLine());
+        int segundo = Int32.Parse(Console.ReadLine());
 
-        if(hora < 0 && hora > 23)
+        if(hora < 0 || hora > 23)
         {
             Console.WriteLine("Hora invalida");
+            return -1;
         }
-        else if (minuto < 0 && minuto > 59)
+        else if (minuto < 0 || minuto > 59)
         {
             Console.WriteLine("Minuto invalido");
+            return -1;
+            
         }
-        else if (segundo < 0 && segundo > 59)
+        else if (segundo < 0 || segundo > 59)
         {
             Console.WriteLine("Segundo invalido");
+            return -1;
         }
-        milisegundo = (hora * 3600000) + (minuto * 60000) + (segundo * 1000);
-        return milisegundo;
+        double milisegundos = (hora * 3600000) + (minuto * 60000) + (segundo * 1000);
+        return milisegundos;
     } 
 }
