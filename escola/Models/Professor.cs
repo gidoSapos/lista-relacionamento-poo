@@ -10,4 +10,8 @@ public class Professor : Pessoa // Herança
     {
         Console.WriteLine("Estou ensinando..."); //Ao chamar ele vai parecer estou ensinando
     }
+    public override void ExibirInfo()
+    {
+        Console.WriteLine($"Nome: {this.Nome}\nIdade: {this.Idade}\nDisciplina {this.Disciplina}");
+    }
 }

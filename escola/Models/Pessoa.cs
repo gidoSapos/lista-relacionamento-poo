@@ -4,16 +4,17 @@ namespace Models
 {
     public class Pessoa 
     {
-        private string? Nome;
-        private int? Idade;
+        protected string? Nome;
+        protected int? Idade;
         public Pessoa(string nome, int idade){
             this.Nome = nome;
             this.Idade = idade;
         }
-        public void ExibirInfo()
+        public virtual void ExibirInfo()
         {
             Console.WriteLine($"Nome: {this.Nome}/n Idade: {this.Idade}");
         }
+        
     }
 }
 

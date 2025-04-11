@@ -1,0 +1,15 @@
+C:\Users\anaot\OneDrive\Desktop\faculdade\terceiro_semestre\p.o.o\lissta03\bin\Debug\net9.0\lissta03.exe
+C:\Users\anaot\OneDrive\Desktop\faculdade\terceiro_semestre\p.o.o\lissta03\bin\Debug\net9.0\lissta03.deps.json
+C:\Users\anaot\OneDrive\Desktop\faculdade\terceiro_semestre\p.o.o\lissta03\bin\Debug\net9.0\lissta03.runtimeconfig.json
+C:\Users\anaot\OneDrive\Desktop\faculdade\terceiro_semestre\p.o.o\lissta03\bin\Debug\net9.0\lissta03.dll
+C:\Users\anaot\OneDrive\Desktop\faculdade\terceiro_semestre\p.o.o\lissta03\bin\Debug\net9.0\lissta03.pdb
+C:\Users\anaot\OneDrive\Desktop\faculdade\terceiro_semestre\p.o.o\lissta03\obj\Debug\net9.0\lissta03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anaot\OneDrive\Desktop\faculdade\terceiro_semestre\p.o.o\lissta03\obj\Debug\net9.0\lissta03.AssemblyInfoInputs.cache
+C:\Users\anaot\OneDrive\Desktop\faculdade\terceiro_semestre\p.o.o\lissta03\obj\Debug\net9.0\lissta03.AssemblyInfo.cs
+C:\Users\anaot\OneDrive\Desktop\faculdade\terceiro_semestre\p.o.o\lissta03\obj\Debug\net9.0\lissta03.csproj.CoreCompileInputs.cache
+C:\Users\anaot\OneDrive\Desktop\faculdade\terceiro_semestre\p.o.o\lissta03\obj\Debug\net9.0\lissta03.sourcelink.json
+C:\Users\anaot\OneDrive\Desktop\faculdade\terceiro_semestre\p.o.o\lissta03\obj\Debug\net9.0\lissta03.dll
+C:\Users\anaot\OneDrive\Desktop\faculdade\terceiro_semestre\p.o.o\lissta03\obj\Debug\net9.0\refint\lissta03.dll
+C:\Users\anaot\OneDrive\Desktop\faculdade\terceiro_semestre\p.o.o\lissta03\obj\Debug\net9.0\lissta03.pdb
+C:\Users\anaot\OneDrive\Desktop\faculdade\terceiro_semestre\p.o.o\lissta03\obj\Debug\net9.0\lissta03.genruntimeconfig.cache
+C:\Users\anaot\OneDrive\Desktop\faculdade\terceiro_semestre\p.o.o\lissta03\obj\Debug\net9.0\ref\lissta03.dll
